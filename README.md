@@ -1,4 +1,4 @@
-##Hi, I'm Dmitry Lesin👋
+## Hi, I'm Dmitry Lesin👋
 ### I'm a budding Python developer passionate about creating innovative solutions. I specialize in developing Telegram bots, building exciting programs, and working with neural networks. I constantly strive to learn new technologies and improve my programming skills.
 
 ### 🛠️ My Tech Stack:
