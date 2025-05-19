@@ -31,6 +31,6 @@
 
 ### 📊 GitHub Stats
 
-![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry.eth&show_icons=true&theme=dark&hide_border=true)
+![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrylesin-official&show_icons=true&theme=dark&hide_border=true)
 
 </div>
