@@ -47,16 +47,16 @@
 
 ### 🚀 Currently Working On
 
-- 🧠 **ML Projects with Sklearn**  
+🧠 **ML Projects with Sklearn**  
   Training, testing and fine-tuning models for real-world datasets. Exploring new preprocessing pipelines and feature engineering techniques.
 
-- 📈 **Improving Machine Learning Accuracy**  
+📈 **Improving Machine Learning Accuracy**  
   Experimenting with cross-validation, hyperparameter tuning and model evaluation to reach better performance metrics.
 
-- 🔬 **Learning Neural Networks**  
+🔬 **Learning Neural Networks**  
   Preparing to dive into deep learning and neural networks — building a solid foundation before jumping into PyTorch or TensorFlow.
 
-- 💻 **All powered by Python & Sklearn**  
+💻 **All powered by Python & Sklearn**  
   Focused on writing clean, modular Python code using industry-standard libraries for ML workflows.
 
 ---
