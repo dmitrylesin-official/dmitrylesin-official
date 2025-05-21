@@ -63,4 +63,8 @@
 
 ---
 
+### ✨ Quote to Remember
+
+> ❝ Where there is no competition, there is no progress. ❞  
+
 </div>
