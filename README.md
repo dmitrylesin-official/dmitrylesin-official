@@ -31,11 +31,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dmitrylesin-official&theme=dark&no-frame=true&no-bg=true&margin-w=15)
-
----
 
 ### 📬 Connect with me!
 
