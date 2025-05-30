@@ -22,27 +22,27 @@
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitrylesin-official&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitrylesin-official&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrylesin-official&show_icons=true&theme=dark&hide_border=true)
+![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrylesin-official&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrylesin-official&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 
 ### 📬 Connect with me!
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lesin_official)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lesin_official)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitrylesin.official@gmail.com)
-[![Website](https://img.shields.io/badge/Website-8B00FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dmitry-eth.netlify.app)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dmitrylesin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-lesin-295880368/)
-
-
+<a href="https://x.com/lesin_official"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="https://t.me/lesin_official"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:dmitrylesin.official@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://dmitry-eth.netlify.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+<a href="https://www.kaggle.com/dmitrylesin"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://www.linkedin.com/in/dmitry-lesin-295880368/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/dmitrylesin-official"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 ---
 
