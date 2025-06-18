@@ -49,6 +49,6 @@
 
 ### ✨ Quote to Remember
 
-> ❝ Where there is no competition, there is no progress. ❞  
+> ❝ Mankind was born on Earth; it was never meant to die here ❞  
 
 </div>
