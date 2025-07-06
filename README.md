@@ -45,6 +45,8 @@
 <a href="https://dmitry-eth.netlify.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.kaggle.com/dmitrylesin"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.linkedin.com/in/dmitry-lesin-295880368/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://habr.com/ru/users/dmitry_eth/"><img src="https://img.shields.io/badge/Habr-000000?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"/></a>
+
 
 ---
 
