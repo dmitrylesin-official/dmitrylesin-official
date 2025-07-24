@@ -39,7 +39,7 @@
 
 ### 📬 Connect with me!
 
-<a href="https://x.com/lesin_official"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="https://x.com/dmitry_lesin"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
 <a href="https://t.me/lesin_official"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:dmitrylesin.official@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://dmitry-eth.netlify.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
