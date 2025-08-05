@@ -53,6 +53,7 @@
   <br><br>
   <strong>Learning:</strong><br>
   <img src="https://flagcdn.com/w40/de.png" width="40" title="German (Learning)" alt="German"/>
+  <img src="https://flagcdn.com/w40/fr.png" width="40" title="French (Learning)" alt="French"/>
 </div>
 
 
