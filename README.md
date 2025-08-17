@@ -20,26 +20,26 @@
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitrylesin-official&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitrylesin-official&hide_border=true&background=00000000&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&currStreakNum=1F6FEB&sideNums=0A2540&sideLabels=0A2540&dates=6B93FF)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrylesin-official&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrylesin-official&layout=compact&theme=tokyonight&hide_border=true)
+![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrylesin-official&show_icons=true&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=0A2540&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrylesin-official&layout=compact&hide_border=true&title_color=1F6FEB&text_color=0A2540&bg_color=00000000)
 
 ---
 
 ### 📬 Connect with me!
 
-<a href="https://x.com/dmitry_lesin"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://t.me/lesin_official"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="mailto:dmitrylesin.official@gmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://dmitry-eth.netlify.app"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-<a href="https://www.kaggle.com/dmitrylesin"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-<a href="https://www.linkedin.com/in/dmitry-lesin-295880368/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://habr.com/ru/users/dmitry_eth/"><img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"/></a>
+<a href="https://x.com/dmitry_lesin"><img src="https://img.shields.io/badge/X-1F6FEB?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://t.me/lesin_official"><img src="https://img.shields.io/badge/Telegram-1F6FEB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:dmitrylesin.official@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://dmitry-eth.netlify.app"><img src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+<a href="https://www.kaggle.com/dmitrylesin"><img src="https://img.shields.io/badge/Kaggle-1F6FEB?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://www.linkedin.com/in/dmitry-lesin-295880368/"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://habr.com/ru/users/dmitry_eth/"><img src="https://img.shields.io/badge/Habr-1F6FEB?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"/></a>
 
 ---
 
@@ -55,7 +55,6 @@
   <img src="https://flagcdn.com/w40/de.png" width="40" title="German (Learning)" alt="German"/>
   <img src="https://flagcdn.com/w40/fr.png" width="40" title="French (Learning)" alt="French"/>
 </div>
-
 
 ---
 
