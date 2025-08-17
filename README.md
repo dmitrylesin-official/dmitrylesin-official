@@ -61,6 +61,6 @@
 
 ### ✨ Quote to Remember
 
-> ❝ Mankind was born on Earth; it was never meant to die here ❞  
+> ❝ To strike, you must stand firmly on your feet ❞  
 
 </div>
