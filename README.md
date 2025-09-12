@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm **Dmitry Lesin** (dmitry.eth) 
-*Python & ML | Sklearn & SQL*
+*Python & ML | Sklearn & SQL | Kaggle Contributor*
 
 ---
 
