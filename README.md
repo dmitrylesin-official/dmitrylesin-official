@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/XGBoost-1F6FEB?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/CatBoost-1F6FEB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LTggOCAzLjU4IDggOC0zLjU4IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white" alt="CatBoost"/>
   <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Git-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
+
 
 ---
 
