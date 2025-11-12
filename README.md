@@ -1,67 +1,63 @@
 <div align="center">
 
-# 👋 Hey, I'm **Dmitry Lesin** (dmitry.eth) 
+<!-- Batman Logo -->
+<img src="bat.png" width="88" alt="Batman Logo" style="filter:invert(90%);"/>
+
+# 🦇 Hey, I'm **Dmitry Lesin** (dmitry.eth)  
 *Python & ML | Sklearn & SQL | Kaggle Contributor*
 
 ---
 
 ### 🧰 Skills & Tools
 
-<div>
-  <img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-1F6FEB?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sklearn"/>
-  <img src="https://img.shields.io/badge/OpenCV-1F6FEB?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/XGBoost-1F6FEB?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/CatBoost-1F6FEB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LTggOCAzLjU4IDggOC0zLjU4IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white" alt="CatBoost"/>
-  <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Git-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</div>
-
+<img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=AAAAAA"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-555555?style=for-the-badge&logo=scikit-learn&logoColor=AAAAAA"/>
+<img src="https://img.shields.io/badge/OpenCV-555555?style=for-the-badge&logo=opencv&logoColor=AAAAAA"/>
+<img src="https://img.shields.io/badge/XGBoost-555555?style=for-the-badge&logo=chartdotjs&logoColor=AAAAAA"/>
+<img src="https://img.shields.io/badge/CatBoost-555555?style=for-the-badge&logoColor=AAAAAA"/>
+<img src="https://img.shields.io/badge/SQL-555555?style=for-the-badge&logo=sqlite&logoColor=AAAAAA"/>
+<img src="https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=AAAAAA"/>
 
 ---
 
-### 🔥 GitHub Streak
+### 📊 GitHub Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitrylesin-official&hide_border=true&background=00000000&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&currStreakNum=1F6FEB&sideNums=0A2540&sideLabels=0A2540&dates=6B93FF)
+![GitHub Contributions](https://ghchart.rshah.org/0A0A0A/dmitrylesin-official)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrylesin-official&show_icons=true&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=0A2540&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrylesin-official&layout=compact&hide_border=true&title_color=1F6FEB&text_color=0A2540&bg_color=00000000)
+![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrylesin-official&show_icons=true&hide_border=true&title_color=AAAAAA&icon_color=AAAAAA&text_color=BBBBBB&bg_color=0A0A0A)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrylesin-official&layout=compact&hide_border=true&title_color=AAAAAA&text_color=BBBBBB&bg_color=0A0A0A)
 
 ---
 
-### 📬 Connect with me!
+### 🌙 Connect with me!
 
-<a href="https://x.com/dmitry_lesin"><img src="https://img.shields.io/badge/X-1F6FEB?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://t.me/lesin_official"><img src="https://img.shields.io/badge/Telegram-1F6FEB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="mailto:dmitrylesin.official@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://dmitry-eth.netlify.app"><img src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-<a href="https://www.kaggle.com/dmitrylesin"><img src="https://img.shields.io/badge/Kaggle-1F6FEB?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-<a href="https://www.linkedin.com/in/dmitry-lesin-295880368/"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://habr.com/ru/users/dmitry_eth/"><img src="https://img.shields.io/badge/Habr-1F6FEB?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"/></a>
-
----
-
-### 🌍 Languages
-
-<div align="center">
-  <strong>Fluent:</strong><br>
-  <img src="https://flagcdn.com/w40/ru.png" width="40" title="Russian" alt="Russian"/>
-  <img src="https://flagcdn.com/w40/us.png" width="40" title="English" alt="English"/>
-  <img src="https://flagcdn.com/w40/ua.png" width="40" title="Ukrainian" alt="Ukrainian"/>
-  <br><br>
-  <strong>Learning:</strong><br>
-  <img src="https://flagcdn.com/w40/de.png" width="40" title="German (Learning)" alt="German"/>
-  <img src="https://flagcdn.com/w40/fr.png" width="40" title="French (Learning)" alt="French"/>
-</div>
+[![X](https://img.shields.io/badge/X-555555?style=for-the-badge&logo=x&logoColor=AAAAAA)](https://x.com/dmitry_lesin)  
+[![Telegram](https://img.shields.io/badge/Telegram-555555?style=for-the-badge&logo=telegram&logoColor=AAAAAA)](https://t.me/lesin_official)  
+[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=AAAAAA)](mailto:dmitrylesin.official@gmail.com)  
+[![Website](https://img.shields.io/badge/Website-555555?style=for-the-badge&logo=google-chrome&logoColor=AAAAAA)](https://dmitry-eth.netlify.app)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-555555?style=for-the-badge&logo=kaggle&logoColor=AAAAAA)](https://www.kaggle.com/dmitrylesin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=AAAAAA)](https://www.linkedin.com/in/dmitry-lesin-295880368/)  
+[![Habr](https://img.shields.io/badge/Habr-555555?style=for-the-badge&logo=habr&logoColor=AAAAAA)](https://habr.com/ru/users/dmitry_eth/)
 
 ---
 
-### ✨ Quote to Remember
+### 🌑 Languages
 
-> ❝ To strike, you must stand firmly on your feet ❞  
+**Fluent:**  
+`Russian` • `English` • `Ukrainian`
+
+**Learning:**  
+`German` • `French`
+
+
+---
+
+### 🦇 Quote to Remember
+
+> ❝ They’ll hate you for it, but that’s the point of Batman ❞  
 
 </div>
