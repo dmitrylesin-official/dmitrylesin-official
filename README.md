@@ -60,8 +60,8 @@
 
 ---
 
-### ✨ Quote to Remember
+### ✨ 
 
-> ❝ To strike, you must stand firmly on your feet ❞  
+![Batman Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=blue&quote=They’ll%20hate%20you%20for%20it,%20but%20that’s%20the%20point%20of%20Batman...&author=Alfred)
 
 </div>
