@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/LightGBM-1F6FEB?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
   <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Git-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Spacy-1F6FEB?style=for-the-badge&logo=spacy&logoColor=white" alt="Spacy"/>
 </div>
 
 
