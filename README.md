@@ -22,16 +22,15 @@
 
 ---
 
-### 🔥 GitHub Streak
+### ⚡ GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitrylesin-official&hide_border=true&background=00000000&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&currStreakNum=1F6FEB&sideNums=0A2540&sideLabels=0A2540&dates=6B93FF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmitrylesin-official&theme=github-compact&hide_border=true&bg_color=00000000&color=1F6FEB&line=1F6FEB&point=6B93FF)
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contribution Snake
 
-![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrylesin-official&show_icons=true&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=0A2540&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrylesin-official&layout=compact&hide_border=true&title_color=1F6FEB&text_color=0A2540&bg_color=00000000)
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
