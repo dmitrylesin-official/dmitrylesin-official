@@ -39,7 +39,6 @@
 <a href="https://x.com/dmitry_lesin"><img src="https://img.shields.io/badge/X-1F6FEB?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://t.me/lesin_official"><img src="https://img.shields.io/badge/Telegram-1F6FEB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:dmitrylesin.official@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://dmitry-eth.netlify.app"><img src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.kaggle.com/dmitrylesin"><img src="https://img.shields.io/badge/Kaggle-1F6FEB?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.linkedin.com/in/dmitry-lesin-295880368/"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://habr.com/ru/users/dmitry_eth/"><img src="https://img.shields.io/badge/Habr-1F6FEB?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"/></a>
