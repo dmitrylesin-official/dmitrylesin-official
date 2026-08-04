@@ -53,10 +53,6 @@
   <img src="https://flagcdn.com/w40/ru.png" width="40" title="Russian" alt="Russian"/>
   <img src="https://flagcdn.com/w40/us.png" width="40" title="English" alt="English"/>
   <img src="https://flagcdn.com/w40/ua.png" width="40" title="Ukrainian" alt="Ukrainian"/>
-  <br><br>
-  <strong>Learning:</strong><br>
-  <img src="https://flagcdn.com/w40/de.png" width="40" title="German (Learning)" alt="German"/>
-  <img src="https://flagcdn.com/w40/fr.png" width="40" title="French (Learning)" alt="French"/>
 </div>
 
 ---
